@@ -1,0 +1,12 @@
+{
+  "name": "MidJourneyHelperBot",
+  "description": "A discord bot to help with MidJourney",
+  "version": "0.0.1",
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "tweetnacl": "latest",
+    "discord-interactions": "latest"
+  }
+}
